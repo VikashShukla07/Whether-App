@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Whether-App/static/css/main.c0413eba.css",
+    "main.js": "/Whether-App/static/js/main.b7b33ae4.js",
+    "static/media/city.jpg": "/Whether-App/static/media/city.bec413c4a34b94fe023a.jpg",
+    "static/media/WeatherIcons.gif": "/Whether-App/static/media/WeatherIcons.c90d089e17d438e81f7e.gif",
+    "static/media/background.jpg": "/Whether-App/static/media/background.557a9309bec30e5e09e5.jpg",
+    "index.html": "/Whether-App/index.html",
+    "main.c0413eba.css.map": "/Whether-App/static/css/main.c0413eba.css.map",
+    "main.b7b33ae4.js.map": "/Whether-App/static/js/main.b7b33ae4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0413eba.css",
+    "static/js/main.b7b33ae4.js"
+  ]
+}
